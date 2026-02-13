@@ -1,0 +1,13 @@
+# Kakao
+KAKAO_REST_API_KEY=
+
+# Seoul Open Data Plaza (서울열린데이터광장) - 서울부동산 전·월세 정보
+SEOUL_OPEN_API_KEY=
+
+# ODsay
+ODSAY_API_KEY=
+
+# DB
+DB_URL=
+DB_USERNAME=
+DB_PASSWORD=

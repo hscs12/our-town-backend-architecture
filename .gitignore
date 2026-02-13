@@ -1,0 +1,14 @@
+# Gradle
+/build/
+/.gradle/
+
+# IntelliJ
+.idea/
+*.iml
+.DS_Store
+
+# secrets
+src/main/resources/application.properties
+
+# exclude scheduler package
+src/main/java/**/scheduler/
