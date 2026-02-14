@@ -15,3 +15,12 @@ src/main/java/**/scheduler/
 
 # exclude local data files
 src/main/resources/ai_module/*.xlsx
+
+# AI module (local only)
+src/main/resources/ai_module/*.py
+src/main/resources/ai_module/*.xlsx
+
+# AI module (local only)
+src/main/resources/ai_module/*.py
+src/main/resources/ai_module/*.xlsx
+~$*.xlsx
